@@ -4,7 +4,7 @@
 competitor(sumsum, appy). % sumsum is a competitor of appy
 competitor(appy, sumsum). % appy is also a competitor of sumsum
 develop(sumsum, galactica-s3). % sumsum produced some nice smart phone tech
-steal(stevey,galactica-s3).
+steal(stevey,galactica-s3). % stevey steals galactica-s3
 boss(appy, stevey). % the boss of appy is stevey
 
 % Rules
